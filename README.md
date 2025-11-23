@@ -1,5 +1,8 @@
+## Grocery Store Billing Application
+
 A simple, desktop Graphical User Interface (GUI) application for managing basic grocery sales and generating receipts. Developed using Python 3 and the standard Tkinter library.
-🚀 Features
+
+🚀 Features:
 
     Itemized Input: Enter quantities for a fixed inventory (Bread, Wine, Rice, Milk).
     Automatic Calculation: Instantly calculate the total number of items and the total transaction cost.
